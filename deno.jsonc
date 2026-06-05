@@ -1,0 +1,14 @@
+{
+  "nodeModulesDir":"manual",
+  "tasks": {
+    "dev": "vite"
+  },
+  "imports": {
+    "@deno/svelte-adapter": "npm:@deno/svelte-adapter@^0.2.1",
+    "@deno/vite-plugin": "npm:@deno/vite-plugin@^2.0.2",
+    "@std/dotenv": "jsr:@std/dotenv@^0.225.7",
+    "@sveltejs/kit": "npm:@sveltejs/kit@^2.63.0",
+    "@sveltejs/vite-plugin-svelte": "npm:@sveltejs/vite-plugin-svelte@^7.1.2",
+    "vite": "npm:vite@^8.0.16"
+  }
+}
